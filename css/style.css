@@ -1,0 +1,80 @@
+
+.row1 .caption { 
+	position: absolute;
+	z-index: 1;
+}
+
+.thumbnail {
+	margin-bottom: 150px;
+	padding: 10px;
+}
+
+.row2 .caption {
+	position: absolute;
+	margin-bottom: 150px;
+}
+
+.caption {
+	position: absolute;
+	z-index: 2;
+}
+
+h1{
+	color: white;	
+}
+
+.row1 .cara1{
+	height: 411px;
+	line-height: 20px;
+	vertical-align: middle;
+	max-width: 100%;
+}
+
+.row1 .cara2{
+	height: 411px;
+	line-height: 20px;
+	vertical-align: middle;
+	max-width: 100%;
+}
+
+.row1 .cara3{
+	height: 411px;
+	line-height: 20px;
+	vertical-align: middle;
+	max-width: 100%;
+}
+
+.row2 .cara4{
+	height: 411px;
+	line-height: 20px;
+	vertical-align: middle;
+	max-width: 100%;
+}
+
+.row2 .cara5{
+	height: 411px;
+	line-height: 20px;
+	vertical-align: middle;
+	max-width: 100%;
+}
+
+.row2 .cara6{
+	height: 411px;
+	line-height: 20px;
+	vertical-align: middle;
+	max-width: 100%;
+}
+
+.modal-body p{
+	padding: 10px 5px;
+}
+
+#fav {
+	color: blue;
+}
+footer{
+	margin-right: 50px;
+	text-align: right;
+}
+ 
+
